@@ -29,6 +29,7 @@
         </constraints>
         <properties>
           <enabled value="true"/>
+          <font name="Berlin Sans FB Demi" size="20"/>
           <foreground color="-16777216"/>
           <text value="Username:"/>
         </properties>
@@ -39,6 +40,7 @@
         </constraints>
         <properties>
           <enabled value="true"/>
+          <font name="Berlin Sans FB Demi" size="20"/>
           <foreground color="-16777216"/>
           <text value="Password"/>
         </properties>
